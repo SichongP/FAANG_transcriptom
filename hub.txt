@@ -1,0 +1,6 @@
+hub FAANG_transcriptome
+shortLabel FAANG_transcriptome
+longLabel FAANG_transcriptome_FinnoLab_Apr_3_18
+genomesFile genome.txt
+email scpeng@ucdavis.edu
+descriptionUrl descriptionUrl
