@@ -2,7 +2,7 @@ track bigBed/Adipose_Loin_sorted_filtered.bigbed
 bigDataUrl bigBed/Adipose_Loin_sorted_filtered.bigbed
 shortLabel bigBed/Adipose_Loin_sorted_filtered.bigbed
 longLabel bigBed/Adipose_Loin_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -12,7 +12,7 @@ track bigBed/Adrenal_Cortex_sorted_filtered.bigbed
 bigDataUrl bigBed/Adrenal_Cortex_sorted_filtered.bigbed
 shortLabel bigBed/Adrenal_Cortex_sorted_filtered.bigbed
 longLabel bigBed/Adrenal_Cortex_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -22,7 +22,7 @@ track bigBed/Cerebellum_Vermis_sorted_filtered.bigbed
 bigDataUrl bigBed/Cerebellum_Vermis_sorted_filtered.bigbed
 shortLabel bigBed/Cerebellum_Vermis_sorted_filtered.bigbed
 longLabel bigBed/Cerebellum_Vermis_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -32,7 +32,7 @@ track bigBed/Cornea_sorted_filtered.bigbed
 bigDataUrl bigBed/Cornea_sorted_filtered.bigbed
 shortLabel bigBed/Cornea_sorted_filtered.bigbed
 longLabel bigBed/Cornea_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -42,7 +42,7 @@ track bigBed/DRG_2_sorted_filtered.bigbed
 bigDataUrl bigBed/DRG_2_sorted_filtered.bigbed
 shortLabel bigBed/DRG_2_sorted_filtered.bigbed
 longLabel bigBed/DRG_2_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -52,7 +52,7 @@ track bigBed/Duodenum_sorted_filtered.bigbed
 bigDataUrl bigBed/Duodenum_sorted_filtered.bigbed
 shortLabel bigBed/Duodenum_sorted_filtered.bigbed
 longLabel bigBed/Duodenum_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -62,7 +62,7 @@ track bigBed/Fibroblasts_sorted_filtered.bigbed
 bigDataUrl bigBed/Fibroblasts_sorted_filtered.bigbed
 shortLabel bigBed/Fibroblasts_sorted_filtered.bigbed
 longLabel bigBed/Fibroblasts_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -72,7 +72,7 @@ track bigBed/Frontal_Cortex_sorted_filtered.bigbed
 bigDataUrl bigBed/Frontal_Cortex_sorted_filtered.bigbed
 shortLabel bigBed/Frontal_Cortex_sorted_filtered.bigbed
 longLabel bigBed/Frontal_Cortex_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -82,7 +82,7 @@ track bigBed/Gluteal_Muscle_2_sorted_filtered.bigbed
 bigDataUrl bigBed/Gluteal_Muscle_2_sorted_filtered.bigbed
 shortLabel bigBed/Gluteal_Muscle_2_sorted_filtered.bigbed
 longLabel bigBed/Gluteal_Muscle_2_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -92,7 +92,7 @@ track bigBed/Hypothalmus_sorted_filtered.bigbed
 bigDataUrl bigBed/Hypothalmus_sorted_filtered.bigbed
 shortLabel bigBed/Hypothalmus_sorted_filtered.bigbed
 longLabel bigBed/Hypothalmus_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -102,7 +102,7 @@ track bigBed/Ileum_sorted_filtered.bigbed
 bigDataUrl bigBed/Ileum_sorted_filtered.bigbed
 shortLabel bigBed/Ileum_sorted_filtered.bigbed
 longLabel bigBed/Ileum_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -112,7 +112,7 @@ track bigBed/Jejunum_sorted_filtered.bigbed
 bigDataUrl bigBed/Jejunum_sorted_filtered.bigbed
 shortLabel bigBed/Jejunum_sorted_filtered.bigbed
 longLabel bigBed/Jejunum_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -122,7 +122,7 @@ track bigBed/Keratinocytes_sorted_filtered.bigbed
 bigDataUrl bigBed/Keratinocytes_sorted_filtered.bigbed
 shortLabel bigBed/Keratinocytes_sorted_filtered.bigbed
 longLabel bigBed/Keratinocytes_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -132,7 +132,7 @@ track bigBed/Lamina_sorted_filtered.bigbed
 bigDataUrl bigBed/Lamina_sorted_filtered.bigbed
 shortLabel bigBed/Lamina_sorted_filtered.bigbed
 longLabel bigBed/Lamina_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -142,7 +142,7 @@ track bigBed/Larynx_sorted_filtered.bigbed
 bigDataUrl bigBed/Larynx_sorted_filtered.bigbed
 shortLabel bigBed/Larynx_sorted_filtered.bigbed
 longLabel bigBed/Larynx_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -152,7 +152,7 @@ track bigBed/Lateral_Cerebellum_sorted_filtered.bigbed
 bigDataUrl bigBed/Lateral_Cerebellum_sorted_filtered.bigbed
 shortLabel bigBed/Lateral_Cerebellum_sorted_filtered.bigbed
 longLabel bigBed/Lateral_Cerebellum_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -162,7 +162,7 @@ track bigBed/Left_Atrium_sorted_filtered.bigbed
 bigDataUrl bigBed/Left_Atrium_sorted_filtered.bigbed
 shortLabel bigBed/Left_Atrium_sorted_filtered.bigbed
 longLabel bigBed/Left_Atrium_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -172,7 +172,7 @@ track bigBed/Left_Ventricle_sorted_filtered.bigbed
 bigDataUrl bigBed/Left_Ventricle_sorted_filtered.bigbed
 shortLabel bigBed/Left_Ventricle_sorted_filtered.bigbed
 longLabel bigBed/Left_Ventricle_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -182,7 +182,7 @@ track bigBed/Liver_Ribozero_sorted_filtered.bigbed
 bigDataUrl bigBed/Liver_Ribozero_sorted_filtered.bigbed
 shortLabel bigBed/Liver_Ribozero_sorted_filtered.bigbed
 longLabel bigBed/Liver_Ribozero_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -192,7 +192,7 @@ track bigBed/Liver_sorted_filtered.bigbed
 bigDataUrl bigBed/Liver_sorted_filtered.bigbed
 shortLabel bigBed/Liver_sorted_filtered.bigbed
 longLabel bigBed/Liver_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -202,7 +202,7 @@ track bigBed/Longissimus_sorted_filtered.bigbed
 bigDataUrl bigBed/Longissimus_sorted_filtered.bigbed
 shortLabel bigBed/Longissimus_sorted_filtered.bigbed
 longLabel bigBed/Longissimus_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -212,7 +212,7 @@ track bigBed/Lung_sorted_filtered.bigbed
 bigDataUrl bigBed/Lung_sorted_filtered.bigbed
 shortLabel bigBed/Lung_sorted_filtered.bigbed
 longLabel bigBed/Lung_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -222,7 +222,7 @@ track bigBed/Mammary_Gland_sorted_filtered.bigbed
 bigDataUrl bigBed/Mammary_Gland_sorted_filtered.bigbed
 shortLabel bigBed/Mammary_Gland_sorted_filtered.bigbed
 longLabel bigBed/Mammary_Gland_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -232,7 +232,7 @@ track bigBed/Mitral_Valve_2_sorted_filtered.bigbed
 bigDataUrl bigBed/Mitral_Valve_2_sorted_filtered.bigbed
 shortLabel bigBed/Mitral_Valve_2_sorted_filtered.bigbed
 longLabel bigBed/Mitral_Valve_2_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -242,7 +242,7 @@ track bigBed/Occipital_Cortex_sorted_filtered.bigbed
 bigDataUrl bigBed/Occipital_Cortex_sorted_filtered.bigbed
 shortLabel bigBed/Occipital_Cortex_sorted_filtered.bigbed
 longLabel bigBed/Occipital_Cortex_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -252,7 +252,7 @@ track bigBed/Ovary_sorted_filtered.bigbed
 bigDataUrl bigBed/Ovary_sorted_filtered.bigbed
 shortLabel bigBed/Ovary_sorted_filtered.bigbed
 longLabel bigBed/Ovary_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -262,7 +262,7 @@ track bigBed/Parietal_Cortex_Ribozero_sorted_filtered.bigbed
 bigDataUrl bigBed/Parietal_Cortex_Ribozero_sorted_filtered.bigbed
 shortLabel bigBed/Parietal_Cortex_Ribozero_sorted_filtered.bigbed
 longLabel bigBed/Parietal_Cortex_Ribozero_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -272,7 +272,7 @@ track bigBed/Parietal_Cortex_sorted_filtered.bigbed
 bigDataUrl bigBed/Parietal_Cortex_sorted_filtered.bigbed
 shortLabel bigBed/Parietal_Cortex_sorted_filtered.bigbed
 longLabel bigBed/Parietal_Cortex_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -282,7 +282,7 @@ track bigBed/PBMC_noduplicate_sorted_filtered.bigbed
 bigDataUrl bigBed/PBMC_noduplicate_sorted_filtered.bigbed
 shortLabel bigBed/PBMC_noduplicate_sorted_filtered.bigbed
 longLabel bigBed/PBMC_noduplicate_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -292,7 +292,7 @@ track bigBed/Retina_sorted_filtered.bigbed
 bigDataUrl bigBed/Retina_sorted_filtered.bigbed
 shortLabel bigBed/Retina_sorted_filtered.bigbed
 longLabel bigBed/Retina_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -302,7 +302,7 @@ track bigBed/Sacrocaudalis_sorted_filtered.bigbed
 bigDataUrl bigBed/Sacrocaudalis_sorted_filtered.bigbed
 shortLabel bigBed/Sacrocaudalis_sorted_filtered.bigbed
 longLabel bigBed/Sacrocaudalis_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -312,7 +312,7 @@ track bigBed/Skin_Dorsum_2_sorted_filtered.bigbed
 bigDataUrl bigBed/Skin_Dorsum_2_sorted_filtered.bigbed
 shortLabel bigBed/Skin_Dorsum_2_sorted_filtered.bigbed
 longLabel bigBed/Skin_Dorsum_2_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -322,7 +322,7 @@ track bigBed/Spinal_cord_L6_sorted_filtered.bigbed
 bigDataUrl bigBed/Spinal_cord_L6_sorted_filtered.bigbed
 shortLabel bigBed/Spinal_cord_L6_sorted_filtered.bigbed
 longLabel bigBed/Spinal_cord_L6_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -332,7 +332,7 @@ track bigBed/Spleen_sorted_filtered.bigbed
 bigDataUrl bigBed/Spleen_sorted_filtered.bigbed
 shortLabel bigBed/Spleen_sorted_filtered.bigbed
 longLabel bigBed/Spleen_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -342,7 +342,7 @@ track bigBed/Suspensory_sorted_filtered.bigbed
 bigDataUrl bigBed/Suspensory_sorted_filtered.bigbed
 shortLabel bigBed/Suspensory_sorted_filtered.bigbed
 longLabel bigBed/Suspensory_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
@@ -352,7 +352,7 @@ track bigBed/Uterus_sorted_filtered.bigbed
 bigDataUrl bigBed/Uterus_sorted_filtered.bigbed
 shortLabel bigBed/Uterus_sorted_filtered.bigbed
 longLabel bigBed/Uterus_sorted_filtered.bigbed
-type bigBed 11
+type bigBed 6
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
