@@ -1,396 +1,396 @@
-track guided/Adipose_Loin
-bigDataUrl guided/guided/Adipose_Loin.BigBed
-shortLabel guided/Adipose_Loin
-longLabel guided/Adipose_Loin.BigBed_guided
+track Adipose_Loin
+bigDataUrl guided/Adipose_Loin.BigBed
+shortLabel Adipose_Loin
+longLabel Adipose_Loin.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Adipose_Loin.BigBed
+html Adipose_Loin.BigBed
 
 
-track guided/Adrenal_Cortex
-bigDataUrl guided/guided/Adrenal_Cortex.BigBed
-shortLabel guided/Adrenal_Cortex
-longLabel guided/Adrenal_Cortex.BigBed_guided
+track Adrenal_Cortex
+bigDataUrl guided/Adrenal_Cortex.BigBed
+shortLabel Adrenal_Cortex
+longLabel Adrenal_Cortex.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Adrenal_Cortex.BigBed
+html Adrenal_Cortex.BigBed
 
 
-track guided/Cerebellum_Vermis
-bigDataUrl guided/guided/Cerebellum_Vermis.BigBed
-shortLabel guided/Cerebellum_Vermis
-longLabel guided/Cerebellum_Vermis.BigBed_guided
+track Cerebellum_Vermis
+bigDataUrl guided/Cerebellum_Vermis.BigBed
+shortLabel Cerebellum_Vermis
+longLabel Cerebellum_Vermis.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Cerebellum_Vermis.BigBed
+html Cerebellum_Vermis.BigBed
 
 
-track guided/Cornea
-bigDataUrl guided/guided/Cornea.BigBed
-shortLabel guided/Cornea
-longLabel guided/Cornea.BigBed_guided
+track Cornea
+bigDataUrl guided/Cornea.BigBed
+shortLabel Cornea
+longLabel Cornea.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Cornea.BigBed
+html Cornea.BigBed
 
 
-track guided/DRG
-bigDataUrl guided/guided/DRG.BigBed
-shortLabel guided/DRG
-longLabel guided/DRG.BigBed_guided
+track DRG
+bigDataUrl guided/DRG.BigBed
+shortLabel DRG
+longLabel DRG.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/DRG.BigBed
+html DRG.BigBed
 
 
-track guided/Duodenum
-bigDataUrl guided/guided/Duodenum.BigBed
-shortLabel guided/Duodenum
-longLabel guided/Duodenum.BigBed_guided
+track Duodenum
+bigDataUrl guided/Duodenum.BigBed
+shortLabel Duodenum
+longLabel Duodenum.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Duodenum.BigBed
+html Duodenum.BigBed
 
 
-track guided/Fibroblasts
-bigDataUrl guided/guided/Fibroblasts.BigBed
-shortLabel guided/Fibroblasts
-longLabel guided/Fibroblasts.BigBed_guided
+track Fibroblasts
+bigDataUrl guided/Fibroblasts.BigBed
+shortLabel Fibroblasts
+longLabel Fibroblasts.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Fibroblasts.BigBed
+html Fibroblasts.BigBed
 
 
-track guided/Frontal_Cortex
-bigDataUrl guided/guided/Frontal_Cortex.BigBed
-shortLabel guided/Frontal_Cortex
-longLabel guided/Frontal_Cortex.BigBed_guided
+track Frontal_Cortex
+bigDataUrl guided/Frontal_Cortex.BigBed
+shortLabel Frontal_Cortex
+longLabel Frontal_Cortex.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Frontal_Cortex.BigBed
+html Frontal_Cortex.BigBed
 
 
-track guided/Gluteal_Muscle
-bigDataUrl guided/guided/Gluteal_Muscle.BigBed
-shortLabel guided/Gluteal_Muscle
-longLabel guided/Gluteal_Muscle.BigBed_guided
+track Gluteal_Muscle
+bigDataUrl guided/Gluteal_Muscle.BigBed
+shortLabel Gluteal_Muscle
+longLabel Gluteal_Muscle.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Gluteal_Muscle.BigBed
+html Gluteal_Muscle.BigBed
 
 
-track guided/Hypothalmus
-bigDataUrl guided/guided/Hypothalmus.BigBed
-shortLabel guided/Hypothalmus
-longLabel guided/Hypothalmus.BigBed_guided
+track Hypothalmus
+bigDataUrl guided/Hypothalmus.BigBed
+shortLabel Hypothalmus
+longLabel Hypothalmus.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Hypothalmus.BigBed
+html Hypothalmus.BigBed
 
 
-track guided/Ileum
-bigDataUrl guided/guided/Ileum.BigBed
-shortLabel guided/Ileum
-longLabel guided/Ileum.BigBed_guided
+track Ileum
+bigDataUrl guided/Ileum.BigBed
+shortLabel Ileum
+longLabel Ileum.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Ileum.BigBed
+html Ileum.BigBed
 
 
-track guided/Jejunum
-bigDataUrl guided/guided/Jejunum.BigBed
-shortLabel guided/Jejunum
-longLabel guided/Jejunum.BigBed_guided
+track Jejunum
+bigDataUrl guided/Jejunum.BigBed
+shortLabel Jejunum
+longLabel Jejunum.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Jejunum.BigBed
+html Jejunum.BigBed
 
 
-track guided/Keratinocytes
-bigDataUrl guided/guided/Keratinocytes.BigBed
-shortLabel guided/Keratinocytes
-longLabel guided/Keratinocytes.BigBed_guided
+track Keratinocytes
+bigDataUrl guided/Keratinocytes.BigBed
+shortLabel Keratinocytes
+longLabel Keratinocytes.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Keratinocytes.BigBed
+html Keratinocytes.BigBed
 
 
-track guided/Lamina
-bigDataUrl guided/guided/Lamina.BigBed
-shortLabel guided/Lamina
-longLabel guided/Lamina.BigBed_guided
+track Lamina
+bigDataUrl guided/Lamina.BigBed
+shortLabel Lamina
+longLabel Lamina.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Lamina.BigBed
+html Lamina.BigBed
 
 
-track guided/Larynx
-bigDataUrl guided/guided/Larynx.BigBed
-shortLabel guided/Larynx
-longLabel guided/Larynx.BigBed_guided
+track Larynx
+bigDataUrl guided/Larynx.BigBed
+shortLabel Larynx
+longLabel Larynx.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Larynx.BigBed
+html Larynx.BigBed
 
 
-track guided/Lateral_Cerebellum
-bigDataUrl guided/guided/Lateral_Cerebellum.BigBed
-shortLabel guided/Lateral_Cerebellum
-longLabel guided/Lateral_Cerebellum.BigBed_guided
+track Lateral_Cerebellum
+bigDataUrl guided/Lateral_Cerebellum.BigBed
+shortLabel Lateral_Cerebellum
+longLabel Lateral_Cerebellum.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Lateral_Cerebellum.BigBed
+html Lateral_Cerebellum.BigBed
 
 
-track guided/Left_Atrium
-bigDataUrl guided/guided/Left_Atrium.BigBed
-shortLabel guided/Left_Atrium
-longLabel guided/Left_Atrium.BigBed_guided
+track Left_Atrium
+bigDataUrl guided/Left_Atrium.BigBed
+shortLabel Left_Atrium
+longLabel Left_Atrium.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Left_Atrium.BigBed
+html Left_Atrium.BigBed
 
 
-track guided/Left_Ventricle
-bigDataUrl guided/guided/Left_Ventricle.BigBed
-shortLabel guided/Left_Ventricle
-longLabel guided/Left_Ventricle.BigBed_guided
+track Left_Ventricle
+bigDataUrl guided/Left_Ventricle.BigBed
+shortLabel Left_Ventricle
+longLabel Left_Ventricle.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Left_Ventricle.BigBed
+html Left_Ventricle.BigBed
 
 
-track guided/Liver
-bigDataUrl guided/guided/Liver.BigBed
-shortLabel guided/Liver
-longLabel guided/Liver.BigBed_guided
+track Liver
+bigDataUrl guided/Liver.BigBed
+shortLabel Liver
+longLabel Liver.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Liver.BigBed
+html Liver.BigBed
 
 
-track guided/Liver_Ribozero
-bigDataUrl guided/guided/Liver_Ribozero.BigBed
-shortLabel guided/Liver_Ribozero
-longLabel guided/Liver_Ribozero.BigBed_guided
+track Liver_Ribozero
+bigDataUrl guided/Liver_Ribozero.BigBed
+shortLabel Liver_Ribozero
+longLabel Liver_Ribozero.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Liver_Ribozero.BigBed
+html Liver_Ribozero.BigBed
 
 
-track guided/Longissimus
-bigDataUrl guided/guided/Longissimus.BigBed
-shortLabel guided/Longissimus
-longLabel guided/Longissimus.BigBed_guided
+track Longissimus
+bigDataUrl guided/Longissimus.BigBed
+shortLabel Longissimus
+longLabel Longissimus.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Longissimus.BigBed
+html Longissimus.BigBed
 
 
-track guided/Lung
-bigDataUrl guided/guided/Lung.BigBed
-shortLabel guided/Lung
-longLabel guided/Lung.BigBed_guided
+track Lung
+bigDataUrl guided/Lung.BigBed
+shortLabel Lung
+longLabel Lung.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Lung.BigBed
+html Lung.BigBed
 
 
-track guided/Mammary_Gland
-bigDataUrl guided/guided/Mammary_Gland.BigBed
-shortLabel guided/Mammary_Gland
-longLabel guided/Mammary_Gland.BigBed_guided
+track Mammary_Gland
+bigDataUrl guided/Mammary_Gland.BigBed
+shortLabel Mammary_Gland
+longLabel Mammary_Gland.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Mammary_Gland.BigBed
+html Mammary_Gland.BigBed
 
 
-track guided/Mitral_Valve
-bigDataUrl guided/guided/Mitral_Valve.BigBed
-shortLabel guided/Mitral_Valve
-longLabel guided/Mitral_Valve.BigBed_guided
+track Mitral_Valve
+bigDataUrl guided/Mitral_Valve.BigBed
+shortLabel Mitral_Valve
+longLabel Mitral_Valve.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Mitral_Valve.BigBed
+html Mitral_Valve.BigBed
 
 
-track guided/Occipital_Cortex
-bigDataUrl guided/guided/Occipital_Cortex.BigBed
-shortLabel guided/Occipital_Cortex
-longLabel guided/Occipital_Cortex.BigBed_guided
+track Occipital_Cortex
+bigDataUrl guided/Occipital_Cortex.BigBed
+shortLabel Occipital_Cortex
+longLabel Occipital_Cortex.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Occipital_Cortex.BigBed
+html Occipital_Cortex.BigBed
 
 
-track guided/Ovary
-bigDataUrl guided/guided/Ovary.BigBed
-shortLabel guided/Ovary
-longLabel guided/Ovary.BigBed_guided
+track Ovary
+bigDataUrl guided/Ovary.BigBed
+shortLabel Ovary
+longLabel Ovary.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Ovary.BigBed
+html Ovary.BigBed
 
 
-track guided/Parietal_Cortex
-bigDataUrl guided/guided/Parietal_Cortex.BigBed
-shortLabel guided/Parietal_Cortex
-longLabel guided/Parietal_Cortex.BigBed_guided
+track Parietal_Cortex
+bigDataUrl guided/Parietal_Cortex.BigBed
+shortLabel Parietal_Cortex
+longLabel Parietal_Cortex.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Parietal_Cortex.BigBed
+html Parietal_Cortex.BigBed
 
 
-track guided/Parietal_Cortex_Ribozero
-bigDataUrl guided/guided/Parietal_Cortex_Ribozero.BigBed
-shortLabel guided/Parietal_Cortex_Ribozero
-longLabel guided/Parietal_Cortex_Ribozero.BigBed_guided
+track Parietal_Cortex_Ribozero
+bigDataUrl guided/Parietal_Cortex_Ribozero.BigBed
+shortLabel Parietal_Cortex_Ribozero
+longLabel Parietal_Cortex_Ribozero.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Parietal_Cortex_Ribozero.BigBed
+html Parietal_Cortex_Ribozero.BigBed
 
 
-track guided/PBMC
-bigDataUrl guided/guided/PBMC.BigBed
-shortLabel guided/PBMC
-longLabel guided/PBMC.BigBed_guided
+track PBMC
+bigDataUrl guided/PBMC.BigBed
+shortLabel PBMC
+longLabel PBMC.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/PBMC.BigBed
+html PBMC.BigBed
 
 
-track guided/Retina
-bigDataUrl guided/guided/Retina.BigBed
-shortLabel guided/Retina
-longLabel guided/Retina.BigBed_guided
+track Retina
+bigDataUrl guided/Retina.BigBed
+shortLabel Retina
+longLabel Retina.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Retina.BigBed
+html Retina.BigBed
 
 
-track guided/Sacrocaudalis
-bigDataUrl guided/guided/Sacrocaudalis.BigBed
-shortLabel guided/Sacrocaudalis
-longLabel guided/Sacrocaudalis.BigBed_guided
+track Sacrocaudalis
+bigDataUrl guided/Sacrocaudalis.BigBed
+shortLabel Sacrocaudalis
+longLabel Sacrocaudalis.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Sacrocaudalis.BigBed
+html Sacrocaudalis.BigBed
 
 
-track guided/Skin_Dorsum
-bigDataUrl guided/guided/Skin_Dorsum.BigBed
-shortLabel guided/Skin_Dorsum
-longLabel guided/Skin_Dorsum.BigBed_guided
+track Skin_Dorsum
+bigDataUrl guided/Skin_Dorsum.BigBed
+shortLabel Skin_Dorsum
+longLabel Skin_Dorsum.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Skin_Dorsum.BigBed
+html Skin_Dorsum.BigBed
 
 
-track guided/Spinal_cord_L6
-bigDataUrl guided/guided/Spinal_cord_L6.BigBed
-shortLabel guided/Spinal_cord_L6
-longLabel guided/Spinal_cord_L6.BigBed_guided
+track Spinal_cord_L6
+bigDataUrl guided/Spinal_cord_L6.BigBed
+shortLabel Spinal_cord_L6
+longLabel Spinal_cord_L6.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Spinal_cord_L6.BigBed
+html Spinal_cord_L6.BigBed
 
 
-track guided/Spleen
-bigDataUrl guided/guided/Spleen.BigBed
-shortLabel guided/Spleen
-longLabel guided/Spleen.BigBed_guided
+track Spleen
+bigDataUrl guided/Spleen.BigBed
+shortLabel Spleen
+longLabel Spleen.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Spleen.BigBed
+html Spleen.BigBed
 
 
-track guided/Suspensory
-bigDataUrl guided/guided/Suspensory.BigBed
-shortLabel guided/Suspensory
-longLabel guided/Suspensory.BigBed_guided
+track Suspensory
+bigDataUrl guided/Suspensory.BigBed
+shortLabel Suspensory
+longLabel Suspensory.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Suspensory.BigBed
+html Suspensory.BigBed
 
 
-track guided/Uterus
-bigDataUrl guided/guided/Uterus.BigBed
-shortLabel guided/Uterus
-longLabel guided/Uterus.BigBed_guided
+track Uterus
+bigDataUrl guided/Uterus.BigBed
+shortLabel Uterus
+longLabel Uterus.BigBed_guided
 type bigBed 12
 colorByStrand 255,0,0 0,0,255
 visibility dense
 priority 1
-html guided/Uterus.BigBed
+html Uterus.BigBed
 
 
