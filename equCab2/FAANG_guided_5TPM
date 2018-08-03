@@ -394,3 +394,399 @@ priority 1
 html guided_5TPM/Uterus.hard_filter.BigBed
 
 
+track guided_1TPM/Adipose_Loin_1TPM_1TPM
+bigDataUrl guided_1TPM/Adipose_Loin_1TPM.BigBed
+shortLabel guided_1TPM/Adipose_Loin_1TPM_1TPM
+longLabel guided_1TPM/Adipose_Loin_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Adipose_Loin_1TPM.BigBed
+
+
+track guided_1TPM/Adrenal_Cortex_1TPM_1TPM
+bigDataUrl guided_1TPM/Adrenal_Cortex_1TPM.BigBed
+shortLabel guided_1TPM/Adrenal_Cortex_1TPM_1TPM
+longLabel guided_1TPM/Adrenal_Cortex_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Adrenal_Cortex_1TPM.BigBed
+
+
+track guided_1TPM/Cerebellum_Vermis_1TPM_1TPM
+bigDataUrl guided_1TPM/Cerebellum_Vermis_1TPM.BigBed
+shortLabel guided_1TPM/Cerebellum_Vermis_1TPM_1TPM
+longLabel guided_1TPM/Cerebellum_Vermis_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Cerebellum_Vermis_1TPM.BigBed
+
+
+track guided_1TPM/Cornea_1TPM_1TPM
+bigDataUrl guided_1TPM/Cornea_1TPM.BigBed
+shortLabel guided_1TPM/Cornea_1TPM_1TPM
+longLabel guided_1TPM/Cornea_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Cornea_1TPM.BigBed
+
+
+track guided_1TPM/DRG_1TPM_1TPM
+bigDataUrl guided_1TPM/DRG_1TPM.BigBed
+shortLabel guided_1TPM/DRG_1TPM_1TPM
+longLabel guided_1TPM/DRG_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/DRG_1TPM.BigBed
+
+
+track guided_1TPM/Duodenum_1TPM_1TPM
+bigDataUrl guided_1TPM/Duodenum_1TPM.BigBed
+shortLabel guided_1TPM/Duodenum_1TPM_1TPM
+longLabel guided_1TPM/Duodenum_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Duodenum_1TPM.BigBed
+
+
+track guided_1TPM/Fibroblasts_1TPM_1TPM
+bigDataUrl guided_1TPM/Fibroblasts_1TPM.BigBed
+shortLabel guided_1TPM/Fibroblasts_1TPM_1TPM
+longLabel guided_1TPM/Fibroblasts_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Fibroblasts_1TPM.BigBed
+
+
+track guided_1TPM/Frontal_Cortex_1TPM_1TPM
+bigDataUrl guided_1TPM/Frontal_Cortex_1TPM.BigBed
+shortLabel guided_1TPM/Frontal_Cortex_1TPM_1TPM
+longLabel guided_1TPM/Frontal_Cortex_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Frontal_Cortex_1TPM.BigBed
+
+
+track guided_1TPM/Gluteal_Muscle_1TPM_1TPM
+bigDataUrl guided_1TPM/Gluteal_Muscle_1TPM.BigBed
+shortLabel guided_1TPM/Gluteal_Muscle_1TPM_1TPM
+longLabel guided_1TPM/Gluteal_Muscle_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Gluteal_Muscle_1TPM.BigBed
+
+
+track guided_1TPM/Hypothalmus_1TPM_1TPM
+bigDataUrl guided_1TPM/Hypothalmus_1TPM.BigBed
+shortLabel guided_1TPM/Hypothalmus_1TPM_1TPM
+longLabel guided_1TPM/Hypothalmus_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Hypothalmus_1TPM.BigBed
+
+
+track guided_1TPM/Ileum_1TPM_1TPM
+bigDataUrl guided_1TPM/Ileum_1TPM.BigBed
+shortLabel guided_1TPM/Ileum_1TPM_1TPM
+longLabel guided_1TPM/Ileum_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Ileum_1TPM.BigBed
+
+
+track guided_1TPM/Jejunum_1TPM_1TPM
+bigDataUrl guided_1TPM/Jejunum_1TPM.BigBed
+shortLabel guided_1TPM/Jejunum_1TPM_1TPM
+longLabel guided_1TPM/Jejunum_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Jejunum_1TPM.BigBed
+
+
+track guided_1TPM/Keratinocytes_1TPM_1TPM
+bigDataUrl guided_1TPM/Keratinocytes_1TPM.BigBed
+shortLabel guided_1TPM/Keratinocytes_1TPM_1TPM
+longLabel guided_1TPM/Keratinocytes_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Keratinocytes_1TPM.BigBed
+
+
+track guided_1TPM/Lamina_1TPM_1TPM
+bigDataUrl guided_1TPM/Lamina_1TPM.BigBed
+shortLabel guided_1TPM/Lamina_1TPM_1TPM
+longLabel guided_1TPM/Lamina_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Lamina_1TPM.BigBed
+
+
+track guided_1TPM/Larynx_1TPM_1TPM
+bigDataUrl guided_1TPM/Larynx_1TPM.BigBed
+shortLabel guided_1TPM/Larynx_1TPM_1TPM
+longLabel guided_1TPM/Larynx_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Larynx_1TPM.BigBed
+
+
+track guided_1TPM/Lateral_Cerebellum_1TPM_1TPM
+bigDataUrl guided_1TPM/Lateral_Cerebellum_1TPM.BigBed
+shortLabel guided_1TPM/Lateral_Cerebellum_1TPM_1TPM
+longLabel guided_1TPM/Lateral_Cerebellum_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Lateral_Cerebellum_1TPM.BigBed
+
+
+track guided_1TPM/Left_Atrium_1TPM_1TPM
+bigDataUrl guided_1TPM/Left_Atrium_1TPM.BigBed
+shortLabel guided_1TPM/Left_Atrium_1TPM_1TPM
+longLabel guided_1TPM/Left_Atrium_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Left_Atrium_1TPM.BigBed
+
+
+track guided_1TPM/Left_Ventricle_1TPM_1TPM
+bigDataUrl guided_1TPM/Left_Ventricle_1TPM.BigBed
+shortLabel guided_1TPM/Left_Ventricle_1TPM_1TPM
+longLabel guided_1TPM/Left_Ventricle_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Left_Ventricle_1TPM.BigBed
+
+
+track guided_1TPM/Liver_1TPM_1TPM
+bigDataUrl guided_1TPM/Liver_1TPM.BigBed
+shortLabel guided_1TPM/Liver_1TPM_1TPM
+longLabel guided_1TPM/Liver_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Liver_1TPM.BigBed
+
+
+track guided_1TPM/Liver_Ribozero_1TPM_1TPM
+bigDataUrl guided_1TPM/Liver_Ribozero_1TPM.BigBed
+shortLabel guided_1TPM/Liver_Ribozero_1TPM_1TPM
+longLabel guided_1TPM/Liver_Ribozero_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Liver_Ribozero_1TPM.BigBed
+
+
+track guided_1TPM/Longissimus_1TPM_1TPM
+bigDataUrl guided_1TPM/Longissimus_1TPM.BigBed
+shortLabel guided_1TPM/Longissimus_1TPM_1TPM
+longLabel guided_1TPM/Longissimus_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Longissimus_1TPM.BigBed
+
+
+track guided_1TPM/Lung_1TPM_1TPM
+bigDataUrl guided_1TPM/Lung_1TPM.BigBed
+shortLabel guided_1TPM/Lung_1TPM_1TPM
+longLabel guided_1TPM/Lung_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Lung_1TPM.BigBed
+
+
+track guided_1TPM/Mammary_Gland_1TPM_1TPM
+bigDataUrl guided_1TPM/Mammary_Gland_1TPM.BigBed
+shortLabel guided_1TPM/Mammary_Gland_1TPM_1TPM
+longLabel guided_1TPM/Mammary_Gland_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Mammary_Gland_1TPM.BigBed
+
+
+track guided_1TPM/Mitral_Valve_1TPM_1TPM
+bigDataUrl guided_1TPM/Mitral_Valve_1TPM.BigBed
+shortLabel guided_1TPM/Mitral_Valve_1TPM_1TPM
+longLabel guided_1TPM/Mitral_Valve_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Mitral_Valve_1TPM.BigBed
+
+
+track guided_1TPM/Occipital_Cortex_1TPM_1TPM
+bigDataUrl guided_1TPM/Occipital_Cortex_1TPM.BigBed
+shortLabel guided_1TPM/Occipital_Cortex_1TPM_1TPM
+longLabel guided_1TPM/Occipital_Cortex_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Occipital_Cortex_1TPM.BigBed
+
+
+track guided_1TPM/Ovary_1TPM_1TPM
+bigDataUrl guided_1TPM/Ovary_1TPM.BigBed
+shortLabel guided_1TPM/Ovary_1TPM_1TPM
+longLabel guided_1TPM/Ovary_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Ovary_1TPM.BigBed
+
+
+track guided_1TPM/Parietal_Cortex_1TPM_1TPM
+bigDataUrl guided_1TPM/Parietal_Cortex_1TPM.BigBed
+shortLabel guided_1TPM/Parietal_Cortex_1TPM_1TPM
+longLabel guided_1TPM/Parietal_Cortex_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Parietal_Cortex_1TPM.BigBed
+
+
+track guided_1TPM/Parietal_Cortex_Ribozero_1TPM_1TPM
+bigDataUrl guided_1TPM/Parietal_Cortex_Ribozero_1TPM.BigBed
+shortLabel guided_1TPM/Parietal_Cortex_Ribozero_1TPM_1TPM
+longLabel guided_1TPM/Parietal_Cortex_Ribozero_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Parietal_Cortex_Ribozero_1TPM.BigBed
+
+
+track guided_1TPM/PBMC_1TPM_1TPM
+bigDataUrl guided_1TPM/PBMC_1TPM.BigBed
+shortLabel guided_1TPM/PBMC_1TPM_1TPM
+longLabel guided_1TPM/PBMC_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/PBMC_1TPM.BigBed
+
+
+track guided_1TPM/Retina_1TPM_1TPM
+bigDataUrl guided_1TPM/Retina_1TPM.BigBed
+shortLabel guided_1TPM/Retina_1TPM_1TPM
+longLabel guided_1TPM/Retina_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Retina_1TPM.BigBed
+
+
+track guided_1TPM/Sacrocaudalis_1TPM_1TPM
+bigDataUrl guided_1TPM/Sacrocaudalis_1TPM.BigBed
+shortLabel guided_1TPM/Sacrocaudalis_1TPM_1TPM
+longLabel guided_1TPM/Sacrocaudalis_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Sacrocaudalis_1TPM.BigBed
+
+
+track guided_1TPM/Skin_Dorsum_1TPM_1TPM
+bigDataUrl guided_1TPM/Skin_Dorsum_1TPM.BigBed
+shortLabel guided_1TPM/Skin_Dorsum_1TPM_1TPM
+longLabel guided_1TPM/Skin_Dorsum_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Skin_Dorsum_1TPM.BigBed
+
+
+track guided_1TPM/Spinal_cord_L6_1TPM_1TPM
+bigDataUrl guided_1TPM/Spinal_cord_L6_1TPM.BigBed
+shortLabel guided_1TPM/Spinal_cord_L6_1TPM_1TPM
+longLabel guided_1TPM/Spinal_cord_L6_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Spinal_cord_L6_1TPM.BigBed
+
+
+track guided_1TPM/Spleen_1TPM_1TPM
+bigDataUrl guided_1TPM/Spleen_1TPM.BigBed
+shortLabel guided_1TPM/Spleen_1TPM_1TPM
+longLabel guided_1TPM/Spleen_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Spleen_1TPM.BigBed
+
+
+track guided_1TPM/Suspensory_1TPM_1TPM
+bigDataUrl guided_1TPM/Suspensory_1TPM.BigBed
+shortLabel guided_1TPM/Suspensory_1TPM_1TPM
+longLabel guided_1TPM/Suspensory_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Suspensory_1TPM.BigBed
+
+
+track guided_1TPM/Uterus_1TPM_1TPM
+bigDataUrl guided_1TPM/Uterus_1TPM.BigBed
+shortLabel guided_1TPM/Uterus_1TPM_1TPM
+longLabel guided_1TPM/Uterus_1TPM_1TPM_guided
+type bigBed 12
+colorbyStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html guided_1TPM/Uterus_1TPM.BigBed
+
+
