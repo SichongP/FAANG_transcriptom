@@ -1,3 +1,2 @@
 genome equCab2
 trackDb equCab2/FAANG_guided
-trackDb equCab2/FAANG_guided_5TPM
