@@ -58,18 +58,6 @@ html guided/DRG.BigBed
 
 
 
-track guided/Duodenum
-bigDataUrl guided/Duodenum.BigBed
-shortLabel Duodenum
-longLabel guided/Duodenum.BigBed
-type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Duodenum.BigBed
-
-
-
 track guided/Fibroblasts
 bigDataUrl guided/Fibroblasts.BigBed
 shortLabel Fibroblasts
@@ -115,30 +103,6 @@ colorbyStrand 255,0,0 0,0,255
 visibility dense
 priority 1
 html guided/Hypothalmus.BigBed
-
-
-
-track guided/Ileum
-bigDataUrl guided/Ileum.BigBed
-shortLabel Ileum
-longLabel guided/Ileum.BigBed
-type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Ileum.BigBed
-
-
-
-track guided/Jejunum
-bigDataUrl guided/Jejunum.BigBed
-shortLabel Jejunum
-longLabel guided/Jejunum.BigBed
-type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Jejunum.BigBed
 
 
 
