@@ -1,372 +1,374 @@
-track guided/Adipose_Loin
-bigDataUrl guided/Adipose_Loin.BigBed
-shortLabel Adipose_Loin
-longLabel guided/Adipose_Loin.BigBed
+track=guided/Adipose_Loin_quant_filtered
+bigDataUrl=guided/Adipose_Loin_quant_filtered.BigBed
+shortLabel=Adipose_Loin_quant_filtered.BigBed
+longLabel=Adipose_Loin_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Adipose_Loin.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Adipose_Loin_quant_filtered.BigBed
 
 
-
-track guided/Adrenal_Cortex
-bigDataUrl guided/Adrenal_Cortex.BigBed
-shortLabel Adrenal_Cortex
-longLabel guided/Adrenal_Cortex.BigBed
+track=guided/Adrenal_Cortex_quant_filtered
+bigDataUrl=guided/Adrenal_Cortex_quant_filtered.BigBed
+shortLabel=Adrenal_Cortex_quant_filtered.BigBed
+longLabel=Adrenal_Cortex_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Adrenal_Cortex.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Adrenal_Cortex_quant_filtered.BigBed
 
 
-
-track guided/Cerebellum_Vermis
-bigDataUrl guided/Cerebellum_Vermis.BigBed
-shortLabel Cerebellum_Vermis
-longLabel guided/Cerebellum_Vermis.BigBed
+track=guided/Cerebellum_Vermis_quant_filtered
+bigDataUrl=guided/Cerebellum_Vermis_quant_filtered.BigBed
+shortLabel=Cerebellum_Vermis_quant_filtered.BigBed
+longLabel=Cerebellum_Vermis_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Cerebellum_Vermis.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Cerebellum_Vermis_quant_filtered.BigBed
 
 
-
-track guided/Cornea
-bigDataUrl guided/Cornea.BigBed
-shortLabel Cornea
-longLabel guided/Cornea.BigBed
+track=guided/Cornea_quant_filtered
+bigDataUrl=guided/Cornea_quant_filtered.BigBed
+shortLabel=Cornea_quant_filtered.BigBed
+longLabel=Cornea_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Cornea.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Cornea_quant_filtered.BigBed
 
 
-
-track guided/DRG
-bigDataUrl guided/DRG.BigBed
-shortLabel DRG
-longLabel guided/DRG.BigBed
+track=guided/DRG_quant_filtered
+bigDataUrl=guided/DRG_quant_filtered.BigBed
+shortLabel=DRG_quant_filtered.BigBed
+longLabel=DRG_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/DRG.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/DRG_quant_filtered.BigBed
 
 
-
-track guided/Fibroblasts
-bigDataUrl guided/Fibroblasts.BigBed
-shortLabel Fibroblasts
-longLabel guided/Fibroblasts.BigBed
+track=guided/Duodenum_quant_filtered
+bigDataUrl=guided/Duodenum_quant_filtered.BigBed
+shortLabel=Duodenum_quant_filtered.BigBed
+longLabel=Duodenum_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Fibroblasts.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Duodenum_quant_filtered.BigBed
 
 
-
-track guided/Frontal_Cortex
-bigDataUrl guided/Frontal_Cortex.BigBed
-shortLabel Frontal_Cortex
-longLabel guided/Frontal_Cortex.BigBed
+track=guided/Fibroblasts_quant_filtered
+bigDataUrl=guided/Fibroblasts_quant_filtered.BigBed
+shortLabel=Fibroblasts_quant_filtered.BigBed
+longLabel=Fibroblasts_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Frontal_Cortex.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Fibroblasts_quant_filtered.BigBed
 
 
-
-track guided/Gluteal_Muscle
-bigDataUrl guided/Gluteal_Muscle.BigBed
-shortLabel Gluteal_Muscle
-longLabel guided/Gluteal_Muscle.BigBed
+track=guided/Frontal_Cortex_quant_filtered
+bigDataUrl=guided/Frontal_Cortex_quant_filtered.BigBed
+shortLabel=Frontal_Cortex_quant_filtered.BigBed
+longLabel=Frontal_Cortex_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Gluteal_Muscle.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Frontal_Cortex_quant_filtered.BigBed
 
 
-
-track guided/Hypothalmus
-bigDataUrl guided/Hypothalmus.BigBed
-shortLabel Hypothalmus
-longLabel guided/Hypothalmus.BigBed
+track=guided/Gluteal_Muscle_quant_filtered
+bigDataUrl=guided/Gluteal_Muscle_quant_filtered.BigBed
+shortLabel=Gluteal_Muscle_quant_filtered.BigBed
+longLabel=Gluteal_Muscle_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Hypothalmus.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Gluteal_Muscle_quant_filtered.BigBed
 
 
-
-track guided/Keratinocytes
-bigDataUrl guided/Keratinocytes.BigBed
-shortLabel Keratinocytes
-longLabel guided/Keratinocytes.BigBed
+track=guided/Hypothalmus_quant_filtered
+bigDataUrl=guided/Hypothalmus_quant_filtered.BigBed
+shortLabel=Hypothalmus_quant_filtered.BigBed
+longLabel=Hypothalmus_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Keratinocytes.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Hypothalmus_quant_filtered.BigBed
 
 
-
-track guided/Lamina
-bigDataUrl guided/Lamina.BigBed
-shortLabel Lamina
-longLabel guided/Lamina.BigBed
+track=guided/Ileum_quant_filtered
+bigDataUrl=guided/Ileum_quant_filtered.BigBed
+shortLabel=Ileum_quant_filtered.BigBed
+longLabel=Ileum_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Lamina.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Ileum_quant_filtered.BigBed
 
 
-
-track guided/Larynx
-bigDataUrl guided/Larynx.BigBed
-shortLabel Larynx
-longLabel guided/Larynx.BigBed
+track=guided/Jejunum_quant_filtered
+bigDataUrl=guided/Jejunum_quant_filtered.BigBed
+shortLabel=Jejunum_quant_filtered.BigBed
+longLabel=Jejunum_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Larynx.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Jejunum_quant_filtered.BigBed
 
 
-
-track guided/Lateral_Cerebellum
-bigDataUrl guided/Lateral_Cerebellum.BigBed
-shortLabel Lateral_Cerebellum
-longLabel guided/Lateral_Cerebellum.BigBed
+track=guided/Keratinocytes_quant_filtered
+bigDataUrl=guided/Keratinocytes_quant_filtered.BigBed
+shortLabel=Keratinocytes_quant_filtered.BigBed
+longLabel=Keratinocytes_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Lateral_Cerebellum.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Keratinocytes_quant_filtered.BigBed
 
 
-
-track guided/Left_Atrium
-bigDataUrl guided/Left_Atrium.BigBed
-shortLabel Left_Atrium
-longLabel guided/Left_Atrium.BigBed
+track=guided/Lamina_quant_filtered
+bigDataUrl=guided/Lamina_quant_filtered.BigBed
+shortLabel=Lamina_quant_filtered.BigBed
+longLabel=Lamina_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Left_Atrium.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Lamina_quant_filtered.BigBed
 
 
-
-track guided/Left_Ventricle
-bigDataUrl guided/Left_Ventricle.BigBed
-shortLabel Left_Ventricle
-longLabel guided/Left_Ventricle.BigBed
+track=guided/Larynx_quant_filtered
+bigDataUrl=guided/Larynx_quant_filtered.BigBed
+shortLabel=Larynx_quant_filtered.BigBed
+longLabel=Larynx_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Left_Ventricle.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Larynx_quant_filtered.BigBed
 
 
-
-track guided/Liver
-bigDataUrl guided/Liver.BigBed
-shortLabel Liver
-longLabel guided/Liver.BigBed
+track=guided/Lateral_Cerebellum_quant_filtered
+bigDataUrl=guided/Lateral_Cerebellum_quant_filtered.BigBed
+shortLabel=Lateral_Cerebellum_quant_filtered.BigBed
+longLabel=Lateral_Cerebellum_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Liver.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Lateral_Cerebellum_quant_filtered.BigBed
 
 
-
-track guided/Longissimus
-bigDataUrl guided/Longissimus.BigBed
-shortLabel Longissimus
-longLabel guided/Longissimus.BigBed
+track=guided/Left_Atrium_quant_filtered
+bigDataUrl=guided/Left_Atrium_quant_filtered.BigBed
+shortLabel=Left_Atrium_quant_filtered.BigBed
+longLabel=Left_Atrium_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Longissimus.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Left_Atrium_quant_filtered.BigBed
 
 
-
-track guided/Lung
-bigDataUrl guided/Lung.BigBed
-shortLabel Lung
-longLabel guided/Lung.BigBed
+track=guided/Left_Ventricle_quant_filtered
+bigDataUrl=guided/Left_Ventricle_quant_filtered.BigBed
+shortLabel=Left_Ventricle_quant_filtered.BigBed
+longLabel=Left_Ventricle_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Lung.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Left_Ventricle_quant_filtered.BigBed
 
 
-
-track guided/Mammary_Gland
-bigDataUrl guided/Mammary_Gland.BigBed
-shortLabel Mammary_Gland
-longLabel guided/Mammary_Gland.BigBed
+track=guided/Liver_quant_filtered
+bigDataUrl=guided/Liver_quant_filtered.BigBed
+shortLabel=Liver_quant_filtered.BigBed
+longLabel=Liver_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Mammary_Gland.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Liver_quant_filtered.BigBed
 
 
-
-track guided/Mitral_Valve
-bigDataUrl guided/Mitral_Valve.BigBed
-shortLabel Mitral_Valve
-longLabel guided/Mitral_Valve.BigBed
+track=guided/Longissimus_quant_filtered
+bigDataUrl=guided/Longissimus_quant_filtered.BigBed
+shortLabel=Longissimus_quant_filtered.BigBed
+longLabel=Longissimus_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Mitral_Valve.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Longissimus_quant_filtered.BigBed
 
 
-
-track guided/Occipital_Cortex
-bigDataUrl guided/Occipital_Cortex.BigBed
-shortLabel Occipital_Cortex
-longLabel guided/Occipital_Cortex.BigBed
+track=guided/Lung_quant_filtered
+bigDataUrl=guided/Lung_quant_filtered.BigBed
+shortLabel=Lung_quant_filtered.BigBed
+longLabel=Lung_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Occipital_Cortex.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Lung_quant_filtered.BigBed
 
 
-
-track guided/Ovary
-bigDataUrl guided/Ovary.BigBed
-shortLabel Ovary
-longLabel guided/Ovary.BigBed
+track=guided/Mammary_Gland_quant_filtered
+bigDataUrl=guided/Mammary_Gland_quant_filtered.BigBed
+shortLabel=Mammary_Gland_quant_filtered.BigBed
+longLabel=Mammary_Gland_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Ovary.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Mammary_Gland_quant_filtered.BigBed
 
 
-
-track guided/Parietal_Cortex
-bigDataUrl guided/Parietal_Cortex.BigBed
-shortLabel Parietal_Cortex
-longLabel guided/Parietal_Cortex.BigBed
+track=guided/Mitral_Valve_quant_filtered
+bigDataUrl=guided/Mitral_Valve_quant_filtered.BigBed
+shortLabel=Mitral_Valve_quant_filtered.BigBed
+longLabel=Mitral_Valve_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Parietal_Cortex.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Mitral_Valve_quant_filtered.BigBed
 
 
-
-track guided/PBMC
-bigDataUrl guided/PBMC.BigBed
-shortLabel PBMC
-longLabel guided/PBMC.BigBed
+track=guided/Occipital_Cortex_quant_filtered
+bigDataUrl=guided/Occipital_Cortex_quant_filtered.BigBed
+shortLabel=Occipital_Cortex_quant_filtered.BigBed
+longLabel=Occipital_Cortex_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/PBMC.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Occipital_Cortex_quant_filtered.BigBed
 
 
-
-track guided/Retina
-bigDataUrl guided/Retina.BigBed
-shortLabel Retina
-longLabel guided/Retina.BigBed
+track=guided/Ovary_quant_filtered
+bigDataUrl=guided/Ovary_quant_filtered.BigBed
+shortLabel=Ovary_quant_filtered.BigBed
+longLabel=Ovary_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Retina.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Ovary_quant_filtered.BigBed
 
 
-
-track guided/Sacrocaudalis
-bigDataUrl guided/Sacrocaudalis.BigBed
-shortLabel Sacrocaudalis
-longLabel guided/Sacrocaudalis.BigBed
+track=guided/Parietal_Cortex_quant_filtered
+bigDataUrl=guided/Parietal_Cortex_quant_filtered.BigBed
+shortLabel=Parietal_Cortex_quant_filtered.BigBed
+longLabel=Parietal_Cortex_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Sacrocaudalis.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Parietal_Cortex_quant_filtered.BigBed
 
 
-
-track guided/Skin_Dorsum
-bigDataUrl guided/Skin_Dorsum.BigBed
-shortLabel Skin_Dorsum
-longLabel guided/Skin_Dorsum.BigBed
+track=guided/PBMC_quant_filtered
+bigDataUrl=guided/PBMC_quant_filtered.BigBed
+shortLabel=PBMC_quant_filtered.BigBed
+longLabel=PBMC_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Skin_Dorsum.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/PBMC_quant_filtered.BigBed
 
 
-
-track guided/Spinal_cord_L6
-bigDataUrl guided/Spinal_cord_L6.BigBed
-shortLabel Spinal_cord_L6
-longLabel guided/Spinal_cord_L6.BigBed
+track=guided/Retina_quant_filtered
+bigDataUrl=guided/Retina_quant_filtered.BigBed
+shortLabel=Retina_quant_filtered.BigBed
+longLabel=Retina_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Spinal_cord_L6.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Retina_quant_filtered.BigBed
 
 
-
-track guided/Spleen
-bigDataUrl guided/Spleen.BigBed
-shortLabel Spleen
-longLabel guided/Spleen.BigBed
+track=guided/Sacrocaudalis_quant_filtered
+bigDataUrl=guided/Sacrocaudalis_quant_filtered.BigBed
+shortLabel=Sacrocaudalis_quant_filtered.BigBed
+longLabel=Sacrocaudalis_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Spleen.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Sacrocaudalis_quant_filtered.BigBed
 
 
-
-track guided/Suspensory
-bigDataUrl guided/Suspensory.BigBed
-shortLabel Suspensory
-longLabel guided/Suspensory.BigBed
+track=guided/Skin_Dorsum_quant_filtered
+bigDataUrl=guided/Skin_Dorsum_quant_filtered.BigBed
+shortLabel=Skin_Dorsum_quant_filtered.BigBed
+longLabel=Skin_Dorsum_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Suspensory.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Skin_Dorsum_quant_filtered.BigBed
 
 
-
-track guided/Uterus
-bigDataUrl guided/Uterus.BigBed
-shortLabel Uterus
-longLabel guided/Uterus.BigBed
+track=guided/Spinal_cord_L6_quant_filtered
+bigDataUrl=guided/Spinal_cord_L6_quant_filtered.BigBed
+shortLabel=Spinal_cord_L6_quant_filtered.BigBed
+longLabel=Spinal_cord_L6_quant_filtered.BigBed
 type bigBed 12
-colorbyStrand 255,0,0 0,0,255
-visibility dense
-priority 1
-html guided/Uterus.BigBed
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Spinal_cord_L6_quant_filtered.BigBed
 
+
+track=guided/Spleen_quant_filtered
+bigDataUrl=guided/Spleen_quant_filtered.BigBed
+shortLabel=Spleen_quant_filtered.BigBed
+longLabel=Spleen_quant_filtered.BigBed
+type bigBed 12
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Spleen_quant_filtered.BigBed
+
+
+track=guided/Suspensory_quant_filtered
+bigDataUrl=guided/Suspensory_quant_filtered.BigBed
+shortLabel=Suspensory_quant_filtered.BigBed
+longLabel=Suspensory_quant_filtered.BigBed
+type bigBed 12
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Suspensory_quant_filtered.BigBed
+
+
+track=guided/Uterus_quant_filtered
+bigDataUrl=guided/Uterus_quant_filtered.BigBed
+shortLabel=Uterus_quant_filtered.BigBed
+longLabel=Uterus_quant_filtered.BigBed
+type bigBed 12
+colorbyStrand=100,50,0 0,60,120
+useScore=1
+visibility=dense
+html=guided/Uterus_quant_filtered.BigBed
 
 
