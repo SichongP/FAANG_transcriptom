@@ -4,7 +4,7 @@ shortLabel Adipose_Loin_quant_filtered.BigBed
 longLabel Adipose_Loin_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Adipose_Loin_quant_filtered.BigBed
 
@@ -15,7 +15,7 @@ shortLabel Adrenal_Cortex_quant_filtered.BigBed
 longLabel Adrenal_Cortex_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Adrenal_Cortex_quant_filtered.BigBed
 
@@ -26,7 +26,7 @@ shortLabel Cerebellum_Vermis_quant_filtered.BigBed
 longLabel Cerebellum_Vermis_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Cerebellum_Vermis_quant_filtered.BigBed
 
@@ -37,7 +37,7 @@ shortLabel Cornea_quant_filtered.BigBed
 longLabel Cornea_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Cornea_quant_filtered.BigBed
 
@@ -48,7 +48,7 @@ shortLabel DRG_quant_filtered.BigBed
 longLabel DRG_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/DRG_quant_filtered.BigBed
 
@@ -59,7 +59,7 @@ shortLabel Duodenum_quant_filtered.BigBed
 longLabel Duodenum_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Duodenum_quant_filtered.BigBed
 
@@ -70,7 +70,7 @@ shortLabel Fibroblasts_quant_filtered.BigBed
 longLabel Fibroblasts_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Fibroblasts_quant_filtered.BigBed
 
@@ -81,7 +81,7 @@ shortLabel Frontal_Cortex_quant_filtered.BigBed
 longLabel Frontal_Cortex_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Frontal_Cortex_quant_filtered.BigBed
 
@@ -92,7 +92,7 @@ shortLabel Gluteal_Muscle_quant_filtered.BigBed
 longLabel Gluteal_Muscle_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Gluteal_Muscle_quant_filtered.BigBed
 
@@ -103,7 +103,7 @@ shortLabel Hypothalmus_quant_filtered.BigBed
 longLabel Hypothalmus_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Hypothalmus_quant_filtered.BigBed
 
@@ -114,7 +114,7 @@ shortLabel Ileum_quant_filtered.BigBed
 longLabel Ileum_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Ileum_quant_filtered.BigBed
 
@@ -125,7 +125,7 @@ shortLabel Jejunum_quant_filtered.BigBed
 longLabel Jejunum_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Jejunum_quant_filtered.BigBed
 
@@ -136,7 +136,7 @@ shortLabel Keratinocytes_quant_filtered.BigBed
 longLabel Keratinocytes_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Keratinocytes_quant_filtered.BigBed
 
@@ -147,7 +147,7 @@ shortLabel Lamina_quant_filtered.BigBed
 longLabel Lamina_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Lamina_quant_filtered.BigBed
 
@@ -158,7 +158,7 @@ shortLabel Larynx_quant_filtered.BigBed
 longLabel Larynx_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Larynx_quant_filtered.BigBed
 
@@ -169,7 +169,7 @@ shortLabel Lateral_Cerebellum_quant_filtered.BigBed
 longLabel Lateral_Cerebellum_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Lateral_Cerebellum_quant_filtered.BigBed
 
@@ -180,7 +180,7 @@ shortLabel Left_Atrium_quant_filtered.BigBed
 longLabel Left_Atrium_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Left_Atrium_quant_filtered.BigBed
 
@@ -191,7 +191,7 @@ shortLabel Left_Ventricle_quant_filtered.BigBed
 longLabel Left_Ventricle_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Left_Ventricle_quant_filtered.BigBed
 
@@ -202,7 +202,7 @@ shortLabel Liver_quant_filtered.BigBed
 longLabel Liver_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Liver_quant_filtered.BigBed
 
@@ -213,7 +213,7 @@ shortLabel Longissimus_quant_filtered.BigBed
 longLabel Longissimus_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Longissimus_quant_filtered.BigBed
 
@@ -224,7 +224,7 @@ shortLabel Lung_quant_filtered.BigBed
 longLabel Lung_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Lung_quant_filtered.BigBed
 
@@ -235,7 +235,7 @@ shortLabel Mammary_Gland_quant_filtered.BigBed
 longLabel Mammary_Gland_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Mammary_Gland_quant_filtered.BigBed
 
@@ -246,7 +246,7 @@ shortLabel Mitral_Valve_quant_filtered.BigBed
 longLabel Mitral_Valve_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Mitral_Valve_quant_filtered.BigBed
 
@@ -257,7 +257,7 @@ shortLabel Occipital_Cortex_quant_filtered.BigBed
 longLabel Occipital_Cortex_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Occipital_Cortex_quant_filtered.BigBed
 
@@ -268,7 +268,7 @@ shortLabel Ovary_quant_filtered.BigBed
 longLabel Ovary_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Ovary_quant_filtered.BigBed
 
@@ -279,7 +279,7 @@ shortLabel Parietal_Cortex_quant_filtered.BigBed
 longLabel Parietal_Cortex_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Parietal_Cortex_quant_filtered.BigBed
 
@@ -290,7 +290,7 @@ shortLabel PBMC_quant_filtered.BigBed
 longLabel PBMC_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/PBMC_quant_filtered.BigBed
 
@@ -301,7 +301,7 @@ shortLabel Retina_quant_filtered.BigBed
 longLabel Retina_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Retina_quant_filtered.BigBed
 
@@ -312,7 +312,7 @@ shortLabel Sacrocaudalis_quant_filtered.BigBed
 longLabel Sacrocaudalis_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Sacrocaudalis_quant_filtered.BigBed
 
@@ -323,7 +323,7 @@ shortLabel Skin_Dorsum_quant_filtered.BigBed
 longLabel Skin_Dorsum_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Skin_Dorsum_quant_filtered.BigBed
 
@@ -334,7 +334,7 @@ shortLabel Spinal_cord_L6_quant_filtered.BigBed
 longLabel Spinal_cord_L6_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Spinal_cord_L6_quant_filtered.BigBed
 
@@ -345,7 +345,7 @@ shortLabel Spleen_quant_filtered.BigBed
 longLabel Spleen_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Spleen_quant_filtered.BigBed
 
@@ -356,7 +356,7 @@ shortLabel Suspensory_quant_filtered.BigBed
 longLabel Suspensory_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Suspensory_quant_filtered.BigBed
 
@@ -367,7 +367,7 @@ shortLabel Uterus_quant_filtered.BigBed
 longLabel Uterus_quant_filtered.BigBed
 type bigBed 12
 color 0,60,120
-useScore 1
+spectrum on
 visibility dense
 html guided/Uterus_quant_filtered.BigBed
 
