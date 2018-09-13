@@ -48,16 +48,6 @@ visibility dense
 html guided/DRG.BigBed
 
 
-track guided/Duodenum
-bigDataUrl guided/Duodenum.BigBed
-shortLabel Duodenum.BigBed
-longLabel Duodenum.BigBed
-type bigBed 12
-spectrum on
-visibility dense
-html guided/Duodenum.BigBed
-
-
 track guided/Fibroblasts
 bigDataUrl guided/Fibroblasts.BigBed
 shortLabel Fibroblasts.BigBed
@@ -96,26 +86,6 @@ type bigBed 12
 spectrum on
 visibility dense
 html guided/Hypothalmus.BigBed
-
-
-track guided/Ileum
-bigDataUrl guided/Ileum.BigBed
-shortLabel Ileum.BigBed
-longLabel Ileum.BigBed
-type bigBed 12
-spectrum on
-visibility dense
-html guided/Ileum.BigBed
-
-
-track guided/Jejunum
-bigDataUrl guided/Jejunum.BigBed
-shortLabel Jejunum.BigBed
-longLabel Jejunum.BigBed
-type bigBed 12
-spectrum on
-visibility dense
-html guided/Jejunum.BigBed
 
 
 track guided/Keratinocytes
