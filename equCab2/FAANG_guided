@@ -1,408 +1,272 @@
-track guided/Adipose_Loin_quant_filtered
-bigDataUrl guided/Adipose_Loin_quant_filtered.BigBed
-shortLabel Adipose_Loin_quant_filtered.BigBed
-longLabel Adipose_Loin_quant_filtered.BigBed
+track guided/Adipose_Loin
+bigDataUrl guided/Adipose_Loin.BigBed
+shortLabel Adipose_Loin.BigBed
+longLabel Adipose_Loin.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Adipose_Loin_quant_filtered.BigBed
-
-
-track guided/Adrenal_Cortex_quant_filtered
-bigDataUrl guided/Adrenal_Cortex_quant_filtered.BigBed
-shortLabel Adrenal_Cortex_quant_filtered.BigBed
-longLabel Adrenal_Cortex_quant_filtered.BigBed
+html guided/Adipose_Loin.BigBed
+track guided/Adrenal_Cortex
+bigDataUrl guided/Adrenal_Cortex.BigBed
+shortLabel Adrenal_Cortex.BigBed
+longLabel Adrenal_Cortex.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Adrenal_Cortex_quant_filtered.BigBed
-
-
-track guided/Cerebellum_Vermis_quant_filtered
-bigDataUrl guided/Cerebellum_Vermis_quant_filtered.BigBed
-shortLabel Cerebellum_Vermis_quant_filtered.BigBed
-longLabel Cerebellum_Vermis_quant_filtered.BigBed
+html guided/Adrenal_Cortex.BigBed
+track guided/Cerebellum_Vermis
+bigDataUrl guided/Cerebellum_Vermis.BigBed
+shortLabel Cerebellum_Vermis.BigBed
+longLabel Cerebellum_Vermis.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Cerebellum_Vermis_quant_filtered.BigBed
-
-
-track guided/Cornea_quant_filtered
-bigDataUrl guided/Cornea_quant_filtered.BigBed
-shortLabel Cornea_quant_filtered.BigBed
-longLabel Cornea_quant_filtered.BigBed
+html guided/Cerebellum_Vermis.BigBed
+track guided/Cornea
+bigDataUrl guided/Cornea.BigBed
+shortLabel Cornea.BigBed
+longLabel Cornea.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Cornea_quant_filtered.BigBed
-
-
-track guided/DRG_quant_filtered
-bigDataUrl guided/DRG_quant_filtered.BigBed
-shortLabel DRG_quant_filtered.BigBed
-longLabel DRG_quant_filtered.BigBed
+html guided/Cornea.BigBed
+track guided/DRG
+bigDataUrl guided/DRG.BigBed
+shortLabel DRG.BigBed
+longLabel DRG.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/DRG_quant_filtered.BigBed
-
-
-track guided/Duodenum_quant_filtered
-bigDataUrl guided/Duodenum_quant_filtered.BigBed
-shortLabel Duodenum_quant_filtered.BigBed
-longLabel Duodenum_quant_filtered.BigBed
+html guided/DRG.BigBed
+track guided/Duodenum
+bigDataUrl guided/Duodenum.BigBed
+shortLabel Duodenum.BigBed
+longLabel Duodenum.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Duodenum_quant_filtered.BigBed
-
-
-track guided/Fibroblasts_quant_filtered
-bigDataUrl guided/Fibroblasts_quant_filtered.BigBed
-shortLabel Fibroblasts_quant_filtered.BigBed
-longLabel Fibroblasts_quant_filtered.BigBed
+html guided/Duodenum.BigBed
+track guided/Fibroblasts
+bigDataUrl guided/Fibroblasts.BigBed
+shortLabel Fibroblasts.BigBed
+longLabel Fibroblasts.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Fibroblasts_quant_filtered.BigBed
-
-
-track guided/Frontal_Cortex_quant_filtered
-bigDataUrl guided/Frontal_Cortex_quant_filtered.BigBed
-shortLabel Frontal_Cortex_quant_filtered.BigBed
-longLabel Frontal_Cortex_quant_filtered.BigBed
+html guided/Fibroblasts.BigBed
+track guided/Frontal_Cortex
+bigDataUrl guided/Frontal_Cortex.BigBed
+shortLabel Frontal_Cortex.BigBed
+longLabel Frontal_Cortex.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Frontal_Cortex_quant_filtered.BigBed
-
-
-track guided/Gluteal_Muscle_quant_filtered
-bigDataUrl guided/Gluteal_Muscle_quant_filtered.BigBed
-shortLabel Gluteal_Muscle_quant_filtered.BigBed
-longLabel Gluteal_Muscle_quant_filtered.BigBed
+html guided/Frontal_Cortex.BigBed
+track guided/Gluteal_Muscle
+bigDataUrl guided/Gluteal_Muscle.BigBed
+shortLabel Gluteal_Muscle.BigBed
+longLabel Gluteal_Muscle.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Gluteal_Muscle_quant_filtered.BigBed
-
-
-track guided/Hypothalmus_quant_filtered
-bigDataUrl guided/Hypothalmus_quant_filtered.BigBed
-shortLabel Hypothalmus_quant_filtered.BigBed
-longLabel Hypothalmus_quant_filtered.BigBed
+html guided/Gluteal_Muscle.BigBed
+track guided/Hypothalmus
+bigDataUrl guided/Hypothalmus.BigBed
+shortLabel Hypothalmus.BigBed
+longLabel Hypothalmus.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Hypothalmus_quant_filtered.BigBed
-
-
-track guided/Ileum_quant_filtered
-bigDataUrl guided/Ileum_quant_filtered.BigBed
-shortLabel Ileum_quant_filtered.BigBed
-longLabel Ileum_quant_filtered.BigBed
+html guided/Hypothalmus.BigBed
+track guided/Ileum
+bigDataUrl guided/Ileum.BigBed
+shortLabel Ileum.BigBed
+longLabel Ileum.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Ileum_quant_filtered.BigBed
-
-
-track guided/Jejunum_quant_filtered
-bigDataUrl guided/Jejunum_quant_filtered.BigBed
-shortLabel Jejunum_quant_filtered.BigBed
-longLabel Jejunum_quant_filtered.BigBed
+html guided/Ileum.BigBed
+track guided/Jejunum
+bigDataUrl guided/Jejunum.BigBed
+shortLabel Jejunum.BigBed
+longLabel Jejunum.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Jejunum_quant_filtered.BigBed
-
-
-track guided/Keratinocytes_quant_filtered
-bigDataUrl guided/Keratinocytes_quant_filtered.BigBed
-shortLabel Keratinocytes_quant_filtered.BigBed
-longLabel Keratinocytes_quant_filtered.BigBed
+html guided/Jejunum.BigBed
+track guided/Keratinocytes
+bigDataUrl guided/Keratinocytes.BigBed
+shortLabel Keratinocytes.BigBed
+longLabel Keratinocytes.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Keratinocytes_quant_filtered.BigBed
-
-
-track guided/Lamina_quant_filtered
-bigDataUrl guided/Lamina_quant_filtered.BigBed
-shortLabel Lamina_quant_filtered.BigBed
-longLabel Lamina_quant_filtered.BigBed
+html guided/Keratinocytes.BigBed
+track guided/Lamina
+bigDataUrl guided/Lamina.BigBed
+shortLabel Lamina.BigBed
+longLabel Lamina.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Lamina_quant_filtered.BigBed
-
-
-track guided/Larynx_quant_filtered
-bigDataUrl guided/Larynx_quant_filtered.BigBed
-shortLabel Larynx_quant_filtered.BigBed
-longLabel Larynx_quant_filtered.BigBed
+html guided/Lamina.BigBed
+track guided/Larynx
+bigDataUrl guided/Larynx.BigBed
+shortLabel Larynx.BigBed
+longLabel Larynx.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Larynx_quant_filtered.BigBed
-
-
-track guided/Lateral_Cerebellum_quant_filtered
-bigDataUrl guided/Lateral_Cerebellum_quant_filtered.BigBed
-shortLabel Lateral_Cerebellum_quant_filtered.BigBed
-longLabel Lateral_Cerebellum_quant_filtered.BigBed
+html guided/Larynx.BigBed
+track guided/Lateral_Cerebellum
+bigDataUrl guided/Lateral_Cerebellum.BigBed
+shortLabel Lateral_Cerebellum.BigBed
+longLabel Lateral_Cerebellum.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Lateral_Cerebellum_quant_filtered.BigBed
-
-
-track guided/Left_Atrium_quant_filtered
-bigDataUrl guided/Left_Atrium_quant_filtered.BigBed
-shortLabel Left_Atrium_quant_filtered.BigBed
-longLabel Left_Atrium_quant_filtered.BigBed
+html guided/Lateral_Cerebellum.BigBed
+track guided/Left_Atrium
+bigDataUrl guided/Left_Atrium.BigBed
+shortLabel Left_Atrium.BigBed
+longLabel Left_Atrium.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Left_Atrium_quant_filtered.BigBed
-
-
-track guided/Left_Ventricle_quant_filtered
-bigDataUrl guided/Left_Ventricle_quant_filtered.BigBed
-shortLabel Left_Ventricle_quant_filtered.BigBed
-longLabel Left_Ventricle_quant_filtered.BigBed
+html guided/Left_Atrium.BigBed
+track guided/Left_Ventricle
+bigDataUrl guided/Left_Ventricle.BigBed
+shortLabel Left_Ventricle.BigBed
+longLabel Left_Ventricle.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Left_Ventricle_quant_filtered.BigBed
-
-
-track guided/Liver_quant_filtered
-bigDataUrl guided/Liver_quant_filtered.BigBed
-shortLabel Liver_quant_filtered.BigBed
-longLabel Liver_quant_filtered.BigBed
+html guided/Left_Ventricle.BigBed
+track guided/Liver
+bigDataUrl guided/Liver.BigBed
+shortLabel Liver.BigBed
+longLabel Liver.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Liver_quant_filtered.BigBed
-
-
-track guided/Longissimus_quant_filtered
-bigDataUrl guided/Longissimus_quant_filtered.BigBed
-shortLabel Longissimus_quant_filtered.BigBed
-longLabel Longissimus_quant_filtered.BigBed
+html guided/Liver.BigBed
+track guided/Longissimus
+bigDataUrl guided/Longissimus.BigBed
+shortLabel Longissimus.BigBed
+longLabel Longissimus.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Longissimus_quant_filtered.BigBed
-
-
-track guided/Lung_quant_filtered
-bigDataUrl guided/Lung_quant_filtered.BigBed
-shortLabel Lung_quant_filtered.BigBed
-longLabel Lung_quant_filtered.BigBed
+html guided/Longissimus.BigBed
+track guided/Lung
+bigDataUrl guided/Lung.BigBed
+shortLabel Lung.BigBed
+longLabel Lung.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Lung_quant_filtered.BigBed
-
-
-track guided/Mammary_Gland_quant_filtered
-bigDataUrl guided/Mammary_Gland_quant_filtered.BigBed
-shortLabel Mammary_Gland_quant_filtered.BigBed
-longLabel Mammary_Gland_quant_filtered.BigBed
+html guided/Lung.BigBed
+track guided/Mammary_Gland
+bigDataUrl guided/Mammary_Gland.BigBed
+shortLabel Mammary_Gland.BigBed
+longLabel Mammary_Gland.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Mammary_Gland_quant_filtered.BigBed
-
-
-track guided/Mitral_Valve_quant_filtered
-bigDataUrl guided/Mitral_Valve_quant_filtered.BigBed
-shortLabel Mitral_Valve_quant_filtered.BigBed
-longLabel Mitral_Valve_quant_filtered.BigBed
+html guided/Mammary_Gland.BigBed
+track guided/Mitral_Valve
+bigDataUrl guided/Mitral_Valve.BigBed
+shortLabel Mitral_Valve.BigBed
+longLabel Mitral_Valve.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Mitral_Valve_quant_filtered.BigBed
-
-
-track guided/Occipital_Cortex_quant_filtered
-bigDataUrl guided/Occipital_Cortex_quant_filtered.BigBed
-shortLabel Occipital_Cortex_quant_filtered.BigBed
-longLabel Occipital_Cortex_quant_filtered.BigBed
+html guided/Mitral_Valve.BigBed
+track guided/Occipital_Cortex
+bigDataUrl guided/Occipital_Cortex.BigBed
+shortLabel Occipital_Cortex.BigBed
+longLabel Occipital_Cortex.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Occipital_Cortex_quant_filtered.BigBed
-
-
-track guided/Ovary_quant_filtered
-bigDataUrl guided/Ovary_quant_filtered.BigBed
-shortLabel Ovary_quant_filtered.BigBed
-longLabel Ovary_quant_filtered.BigBed
+html guided/Occipital_Cortex.BigBed
+track guided/Ovary
+bigDataUrl guided/Ovary.BigBed
+shortLabel Ovary.BigBed
+longLabel Ovary.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Ovary_quant_filtered.BigBed
-
-
-track guided/Parietal_Cortex_quant_filtered
-bigDataUrl guided/Parietal_Cortex_quant_filtered.BigBed
-shortLabel Parietal_Cortex_quant_filtered.BigBed
-longLabel Parietal_Cortex_quant_filtered.BigBed
+html guided/Ovary.BigBed
+track guided/Parietal_Cortex
+bigDataUrl guided/Parietal_Cortex.BigBed
+shortLabel Parietal_Cortex.BigBed
+longLabel Parietal_Cortex.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Parietal_Cortex_quant_filtered.BigBed
-
-
-track guided/PBMC_quant_filtered
-bigDataUrl guided/PBMC_quant_filtered.BigBed
-shortLabel PBMC_quant_filtered.BigBed
-longLabel PBMC_quant_filtered.BigBed
+html guided/Parietal_Cortex.BigBed
+track guided/PBMC
+bigDataUrl guided/PBMC.BigBed
+shortLabel PBMC.BigBed
+longLabel PBMC.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/PBMC_quant_filtered.BigBed
-
-
-track guided/Retina_quant_filtered
-bigDataUrl guided/Retina_quant_filtered.BigBed
-shortLabel Retina_quant_filtered.BigBed
-longLabel Retina_quant_filtered.BigBed
+html guided/PBMC.BigBed
+track guided/Retina
+bigDataUrl guided/Retina.BigBed
+shortLabel Retina.BigBed
+longLabel Retina.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Retina_quant_filtered.BigBed
-
-
-track guided/Sacrocaudalis_quant_filtered
-bigDataUrl guided/Sacrocaudalis_quant_filtered.BigBed
-shortLabel Sacrocaudalis_quant_filtered.BigBed
-longLabel Sacrocaudalis_quant_filtered.BigBed
+html guided/Retina.BigBed
+track guided/Sacrocaudalis
+bigDataUrl guided/Sacrocaudalis.BigBed
+shortLabel Sacrocaudalis.BigBed
+longLabel Sacrocaudalis.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Sacrocaudalis_quant_filtered.BigBed
-
-
-track guided/Skin_Dorsum_quant_filtered
-bigDataUrl guided/Skin_Dorsum_quant_filtered.BigBed
-shortLabel Skin_Dorsum_quant_filtered.BigBed
-longLabel Skin_Dorsum_quant_filtered.BigBed
+html guided/Sacrocaudalis.BigBed
+track guided/Skin_Dorsum
+bigDataUrl guided/Skin_Dorsum.BigBed
+shortLabel Skin_Dorsum.BigBed
+longLabel Skin_Dorsum.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Skin_Dorsum_quant_filtered.BigBed
-
-
-track guided/Spinal_cord_L6_quant_filtered
-bigDataUrl guided/Spinal_cord_L6_quant_filtered.BigBed
-shortLabel Spinal_cord_L6_quant_filtered.BigBed
-longLabel Spinal_cord_L6_quant_filtered.BigBed
+html guided/Skin_Dorsum.BigBed
+track guided/Spinal_cord_L6
+bigDataUrl guided/Spinal_cord_L6.BigBed
+shortLabel Spinal_cord_L6.BigBed
+longLabel Spinal_cord_L6.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Spinal_cord_L6_quant_filtered.BigBed
-
-
-track guided/Spleen_quant_filtered
-bigDataUrl guided/Spleen_quant_filtered.BigBed
-shortLabel Spleen_quant_filtered.BigBed
-longLabel Spleen_quant_filtered.BigBed
+html guided/Spinal_cord_L6.BigBed
+track guided/Spleen
+bigDataUrl guided/Spleen.BigBed
+shortLabel Spleen.BigBed
+longLabel Spleen.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Spleen_quant_filtered.BigBed
-
-
-track guided/Suspensory_quant_filtered
-bigDataUrl guided/Suspensory_quant_filtered.BigBed
-shortLabel Suspensory_quant_filtered.BigBed
-longLabel Suspensory_quant_filtered.BigBed
+html guided/Spleen.BigBed
+track guided/Suspensory
+bigDataUrl guided/Suspensory.BigBed
+shortLabel Suspensory.BigBed
+longLabel Suspensory.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Suspensory_quant_filtered.BigBed
-
-
-track guided/Uterus_quant_filtered
-bigDataUrl guided/Uterus_quant_filtered.BigBed
-shortLabel Uterus_quant_filtered.BigBed
-longLabel Uterus_quant_filtered.BigBed
+html guided/Suspensory.BigBed
+track guided/Uterus
+bigDataUrl guided/Uterus.BigBed
+shortLabel Uterus.BigBed
+longLabel Uterus.BigBed
 type bigBed 12
 spectrum on
-scoreMin 100
-scoreMax 900
 visibility dense
-html guided/Uterus_quant_filtered.BigBed
-
-
+html guided/Uterus.BigBed
