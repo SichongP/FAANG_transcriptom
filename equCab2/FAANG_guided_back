@@ -58,6 +58,7 @@ visibility dense
 html guided/DDFT.BigBed
 
 
+<<<<<<< HEAD
 track DRG.BigBed
 bigDataUrl guided/DRG.BigBed
 shortLabel DRG.BigBed
@@ -69,6 +70,9 @@ html guided/DRG.BigBed
 
 
 track Fibroblasts.BigBed
+=======
+track guided/Fibroblasts
+>>>>>>> db386c0bd2d8f36d59802e11eb338456f8904897
 bigDataUrl guided/Fibroblasts.BigBed
 shortLabel Fibroblasts.BigBed
 longLabel Fibroblasts.BigBed
@@ -118,6 +122,7 @@ visibility dense
 html guided/Hypothalmus.BigBed
 
 
+<<<<<<< HEAD
 track Keratinocytes.BigBed
 bigDataUrl guided/Keratinocytes.BigBed
 shortLabel Keratinocytes.BigBed
@@ -142,6 +147,12 @@ track Kidney_Medulla.BigBed
 bigDataUrl guided/Kidney_Medulla.BigBed
 shortLabel Kidney_Medulla.BigBed
 longLabel Kidney_Medulla.BigBed
+=======
+track guided/Keratinocytes
+bigDataUrl guided/Keratinocytes.BigBed
+shortLabel Keratinocytes.BigBed
+longLabel Keratinocytes.BigBed
+>>>>>>> db386c0bd2d8f36d59802e11eb338456f8904897
 type bigBed 12
 spectrum on
 visibility dense
