@@ -1,7 +1,7 @@
 track Adipose_Loin.BigBed
 bigDataUrl guided/Adipose_Loin.BigBed
 shortLabel Adipose_Loin.BigBed
-longLabel Adipose_Loin.BigBed
+longLabel guided/Adipose_Loin.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -11,7 +11,7 @@ html guided/Adipose_Loin.BigBed
 track Adrenal_Cortex.BigBed
 bigDataUrl guided/Adrenal_Cortex.BigBed
 shortLabel Adrenal_Cortex.BigBed
-longLabel Adrenal_Cortex.BigBed
+longLabel guided/Adrenal_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -21,7 +21,7 @@ html guided/Adrenal_Cortex.BigBed
 track Cecum.BigBed
 bigDataUrl guided/Cecum.BigBed
 shortLabel Cecum.BigBed
-longLabel Cecum.BigBed
+longLabel guided/Cecum.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -31,7 +31,7 @@ html guided/Cecum.BigBed
 track Cerebellum_Vermis.BigBed
 bigDataUrl guided/Cerebellum_Vermis.BigBed
 shortLabel Cerebellum_Vermis.BigBed
-longLabel Cerebellum_Vermis.BigBed
+longLabel guided/Cerebellum_Vermis.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -41,7 +41,7 @@ html guided/Cerebellum_Vermis.BigBed
 track Cornea.BigBed
 bigDataUrl guided/Cornea.BigBed
 shortLabel Cornea.BigBed
-longLabel Cornea.BigBed
+longLabel guided/Cornea.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -51,18 +51,17 @@ html guided/Cornea.BigBed
 track DDFT.BigBed
 bigDataUrl guided/DDFT.BigBed
 shortLabel DDFT.BigBed
-longLabel DDFT.BigBed
+longLabel guided/DDFT.BigBed
 type bigBed 12
 spectrum on
 visibility dense
 html guided/DDFT.BigBed
 
 
-<<<<<<< HEAD
 track DRG.BigBed
 bigDataUrl guided/DRG.BigBed
 shortLabel DRG.BigBed
-longLabel DRG.BigBed
+longLabel guided/DRG.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -70,12 +69,9 @@ html guided/DRG.BigBed
 
 
 track Fibroblasts.BigBed
-=======
-track guided/Fibroblasts
->>>>>>> db386c0bd2d8f36d59802e11eb338456f8904897
 bigDataUrl guided/Fibroblasts.BigBed
 shortLabel Fibroblasts.BigBed
-longLabel Fibroblasts.BigBed
+longLabel guided/Fibroblasts.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -85,7 +81,7 @@ html guided/Fibroblasts.BigBed
 track Forelimb_Fetlock.BigBed
 bigDataUrl guided/Forelimb_Fetlock.BigBed
 shortLabel Forelimb_Fetlock.BigBed
-longLabel Forelimb_Fetlock.BigBed
+longLabel guided/Forelimb_Fetlock.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -95,7 +91,7 @@ html guided/Forelimb_Fetlock.BigBed
 track Frontal_Cortex.BigBed
 bigDataUrl guided/Frontal_Cortex.BigBed
 shortLabel Frontal_Cortex.BigBed
-longLabel Frontal_Cortex.BigBed
+longLabel guided/Frontal_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -105,7 +101,7 @@ html guided/Frontal_Cortex.BigBed
 track Gluteal_Muscle.BigBed
 bigDataUrl guided/Gluteal_Muscle.BigBed
 shortLabel Gluteal_Muscle.BigBed
-longLabel Gluteal_Muscle.BigBed
+longLabel guided/Gluteal_Muscle.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -115,18 +111,17 @@ html guided/Gluteal_Muscle.BigBed
 track Hypothalmus.BigBed
 bigDataUrl guided/Hypothalmus.BigBed
 shortLabel Hypothalmus.BigBed
-longLabel Hypothalmus.BigBed
+longLabel guided/Hypothalmus.BigBed
 type bigBed 12
 spectrum on
 visibility dense
 html guided/Hypothalmus.BigBed
 
 
-<<<<<<< HEAD
 track Keratinocytes.BigBed
 bigDataUrl guided/Keratinocytes.BigBed
 shortLabel Keratinocytes.BigBed
-longLabel Keratinocytes.BigBed
+longLabel guided/Keratinocytes.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -136,7 +131,7 @@ html guided/Keratinocytes.BigBed
 track Kidney_Cortex.BigBed
 bigDataUrl guided/Kidney_Cortex.BigBed
 shortLabel Kidney_Cortex.BigBed
-longLabel Kidney_Cortex.BigBed
+longLabel guided/Kidney_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -146,13 +141,7 @@ html guided/Kidney_Cortex.BigBed
 track Kidney_Medulla.BigBed
 bigDataUrl guided/Kidney_Medulla.BigBed
 shortLabel Kidney_Medulla.BigBed
-longLabel Kidney_Medulla.BigBed
-=======
-track guided/Keratinocytes
-bigDataUrl guided/Keratinocytes.BigBed
-shortLabel Keratinocytes.BigBed
-longLabel Keratinocytes.BigBed
->>>>>>> db386c0bd2d8f36d59802e11eb338456f8904897
+longLabel guided/Kidney_Medulla.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -162,7 +151,7 @@ html guided/Kidney_Medulla.BigBed
 track Lamina.BigBed
 bigDataUrl guided/Lamina.BigBed
 shortLabel Lamina.BigBed
-longLabel Lamina.BigBed
+longLabel guided/Lamina.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -172,7 +161,7 @@ html guided/Lamina.BigBed
 track Larynx.BigBed
 bigDataUrl guided/Larynx.BigBed
 shortLabel Larynx.BigBed
-longLabel Larynx.BigBed
+longLabel guided/Larynx.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -182,7 +171,7 @@ html guided/Larynx.BigBed
 track Lateral_Cerebellum.BigBed
 bigDataUrl guided/Lateral_Cerebellum.BigBed
 shortLabel Lateral_Cerebellum.BigBed
-longLabel Lateral_Cerebellum.BigBed
+longLabel guided/Lateral_Cerebellum.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -192,7 +181,7 @@ html guided/Lateral_Cerebellum.BigBed
 track Left_Atrium.BigBed
 bigDataUrl guided/Left_Atrium.BigBed
 shortLabel Left_Atrium.BigBed
-longLabel Left_Atrium.BigBed
+longLabel guided/Left_Atrium.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -202,7 +191,7 @@ html guided/Left_Atrium.BigBed
 track Left_Ventricle.BigBed
 bigDataUrl guided/Left_Ventricle.BigBed
 shortLabel Left_Ventricle.BigBed
-longLabel Left_Ventricle.BigBed
+longLabel guided/Left_Ventricle.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -212,7 +201,7 @@ html guided/Left_Ventricle.BigBed
 track Liver.BigBed
 bigDataUrl guided/Liver.BigBed
 shortLabel Liver.BigBed
-longLabel Liver.BigBed
+longLabel guided/Liver.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -222,7 +211,7 @@ html guided/Liver.BigBed
 track Liver_Ribozero.BigBed
 bigDataUrl guided/Liver_Ribozero.BigBed
 shortLabel Liver_Ribozero.BigBed
-longLabel Liver_Ribozero.BigBed
+longLabel guided/Liver_Ribozero.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -232,7 +221,7 @@ html guided/Liver_Ribozero.BigBed
 track Longissimus.BigBed
 bigDataUrl guided/Longissimus.BigBed
 shortLabel Longissimus.BigBed
-longLabel Longissimus.BigBed
+longLabel guided/Longissimus.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -242,7 +231,7 @@ html guided/Longissimus.BigBed
 track Lung.BigBed
 bigDataUrl guided/Lung.BigBed
 shortLabel Lung.BigBed
-longLabel Lung.BigBed
+longLabel guided/Lung.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -252,7 +241,7 @@ html guided/Lung.BigBed
 track Mammary_Gland.BigBed
 bigDataUrl guided/Mammary_Gland.BigBed
 shortLabel Mammary_Gland.BigBed
-longLabel Mammary_Gland.BigBed
+longLabel guided/Mammary_Gland.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -262,7 +251,7 @@ html guided/Mammary_Gland.BigBed
 track Mitral_Valve.BigBed
 bigDataUrl guided/Mitral_Valve.BigBed
 shortLabel Mitral_Valve.BigBed
-longLabel Mitral_Valve.BigBed
+longLabel guided/Mitral_Valve.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -272,7 +261,7 @@ html guided/Mitral_Valve.BigBed
 track Occipital_Cortex.BigBed
 bigDataUrl guided/Occipital_Cortex.BigBed
 shortLabel Occipital_Cortex.BigBed
-longLabel Occipital_Cortex.BigBed
+longLabel guided/Occipital_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -282,7 +271,7 @@ html guided/Occipital_Cortex.BigBed
 track Ovary.BigBed
 bigDataUrl guided/Ovary.BigBed
 shortLabel Ovary.BigBed
-longLabel Ovary.BigBed
+longLabel guided/Ovary.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -292,7 +281,7 @@ html guided/Ovary.BigBed
 track Parietal_Cortex.BigBed
 bigDataUrl guided/Parietal_Cortex.BigBed
 shortLabel Parietal_Cortex.BigBed
-longLabel Parietal_Cortex.BigBed
+longLabel guided/Parietal_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -302,7 +291,7 @@ html guided/Parietal_Cortex.BigBed
 track Parietal_Cortex_Ribozero.BigBed
 bigDataUrl guided/Parietal_Cortex_Ribozero.BigBed
 shortLabel Parietal_Cortex_Ribozero.BigBed
-longLabel Parietal_Cortex_Ribozero.BigBed
+longLabel guided/Parietal_Cortex_Ribozero.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -312,7 +301,7 @@ html guided/Parietal_Cortex_Ribozero.BigBed
 track PBMC.BigBed
 bigDataUrl guided/PBMC.BigBed
 shortLabel PBMC.BigBed
-longLabel PBMC.BigBed
+longLabel guided/PBMC.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -322,7 +311,7 @@ html guided/PBMC.BigBed
 track Pituitary.BigBed
 bigDataUrl guided/Pituitary.BigBed
 shortLabel Pituitary.BigBed
-longLabel Pituitary.BigBed
+longLabel guided/Pituitary.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -332,7 +321,7 @@ html guided/Pituitary.BigBed
 track Retina.BigBed
 bigDataUrl guided/Retina.BigBed
 shortLabel Retina.BigBed
-longLabel Retina.BigBed
+longLabel guided/Retina.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -342,7 +331,7 @@ html guided/Retina.BigBed
 track Right_Atrium_Heart.BigBed
 bigDataUrl guided/Right_Atrium_Heart.BigBed
 shortLabel Right_Atrium_Heart.BigBed
-longLabel Right_Atrium_Heart.BigBed
+longLabel guided/Right_Atrium_Heart.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -352,7 +341,7 @@ html guided/Right_Atrium_Heart.BigBed
 track Right_Ventricle_Heart.BigBed
 bigDataUrl guided/Right_Ventricle_Heart.BigBed
 shortLabel Right_Ventricle_Heart.BigBed
-longLabel Right_Ventricle_Heart.BigBed
+longLabel guided/Right_Ventricle_Heart.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -362,7 +351,7 @@ html guided/Right_Ventricle_Heart.BigBed
 track Sacrocaudalis.BigBed
 bigDataUrl guided/Sacrocaudalis.BigBed
 shortLabel Sacrocaudalis.BigBed
-longLabel Sacrocaudalis.BigBed
+longLabel guided/Sacrocaudalis.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -372,7 +361,7 @@ html guided/Sacrocaudalis.BigBed
 track SDFT.BigBed
 bigDataUrl guided/SDFT.BigBed
 shortLabel SDFT.BigBed
-longLabel SDFT.BigBed
+longLabel guided/SDFT.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -382,7 +371,7 @@ html guided/SDFT.BigBed
 track Skin_Dorsum.BigBed
 bigDataUrl guided/Skin_Dorsum.BigBed
 shortLabel Skin_Dorsum.BigBed
-longLabel Skin_Dorsum.BigBed
+longLabel guided/Skin_Dorsum.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -392,7 +381,7 @@ html guided/Skin_Dorsum.BigBed
 track Spinal_cord_L6.BigBed
 bigDataUrl guided/Spinal_cord_L6.BigBed
 shortLabel Spinal_cord_L6.BigBed
-longLabel Spinal_cord_L6.BigBed
+longLabel guided/Spinal_cord_L6.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -402,7 +391,7 @@ html guided/Spinal_cord_L6.BigBed
 track Spleen.BigBed
 bigDataUrl guided/Spleen.BigBed
 shortLabel Spleen.BigBed
-longLabel Spleen.BigBed
+longLabel guided/Spleen.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -412,7 +401,7 @@ html guided/Spleen.BigBed
 track Suspensory.BigBed
 bigDataUrl guided/Suspensory.BigBed
 shortLabel Suspensory.BigBed
-longLabel Suspensory.BigBed
+longLabel guided/Suspensory.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -422,7 +411,7 @@ html guided/Suspensory.BigBed
 track T8_Spinal_Cord.BigBed
 bigDataUrl guided/T8_Spinal_Cord.BigBed
 shortLabel T8_Spinal_Cord.BigBed
-longLabel T8_Spinal_Cord.BigBed
+longLabel guided/T8_Spinal_Cord.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -432,7 +421,7 @@ html guided/T8_Spinal_Cord.BigBed
 track Temporal_Cortex.BigBed
 bigDataUrl guided/Temporal_Cortex.BigBed
 shortLabel Temporal_Cortex.BigBed
-longLabel Temporal_Cortex.BigBed
+longLabel guided/Temporal_Cortex.BigBed
 type bigBed 12
 spectrum on
 visibility dense
@@ -442,7 +431,7 @@ html guided/Temporal_Cortex.BigBed
 track Uterus.BigBed
 bigDataUrl guided/Uterus.BigBed
 shortLabel Uterus.BigBed
-longLabel Uterus.BigBed
+longLabel guided/Uterus.BigBed
 type bigBed 12
 spectrum on
 visibility dense
